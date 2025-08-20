@@ -2,7 +2,7 @@ package JavaPOO001.comparacao;
 
 public class FabricaCarro {
     public static void main(String[] args) {
-        Carro carro1 = new Carro("Branca", "Fiat", "palio");
+        Carro carro1 = new Carro("Branca", "Fiat", "Argos");
         Carro carro2 = new Carro("Branca", "Fiat", "palio");
         Carro carro3 = new Carro("Branca", "Fiat", "palio");
         Carro carro4 = new Carro("Branca", "Fiat", "palio");
